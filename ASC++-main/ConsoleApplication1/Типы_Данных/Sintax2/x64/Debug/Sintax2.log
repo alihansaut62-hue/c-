@@ -1,0 +1,3 @@
+﻿  Sintax2.cpp
+C:\Users\Admin\Desktop\ASC++-main\Типы_Данных\Sintax2\Sintax2.cpp(17,2): error C2065: cont: необъявленный идентификатор
+C:\Users\Admin\Desktop\ASC++-main\Типы_Данных\Sintax2\Sintax2.cpp(17,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "std::string"

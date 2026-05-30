@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="uslovia_operator/uslovia_operator.vcxproj" Id="e0624aab-37c5-40cb-b44e-1a101e04940b" />
+</Solution>

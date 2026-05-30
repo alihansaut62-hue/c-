@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sintax2/Sintax2.vcxproj" Id="022f1992-fa7d-4759-a980-8b5121d219fd" />
+</Solution>
